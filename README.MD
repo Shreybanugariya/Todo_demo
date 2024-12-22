@@ -4,10 +4,15 @@ This is a ToDo list API built with Node.js, Express, MongoDB, JWT authentication
 
 ## Features
 - JWT Authentication
-- Role-Based Access Control (RBAC)
 - Pagination, Sorting, and Filtering
 - ToDo Stats (Completed vs Pending Tasks)
 - Rate Limiting
 - Input Sanitization
 - Swagger Documentation
+
+## Running the APP
+
+- Clone the Repo: `"https://github.com/Shreybanugariya/Todo_demo.git"`
+- run `npm install`
+- run `npm run dev`
 
